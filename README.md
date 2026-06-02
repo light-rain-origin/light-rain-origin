@@ -1,5 +1,7 @@
 ✨ Light Rain — building AI systems, virtual characters, and digital experiments.
 
+---
+
 🎯 Focus / 方向  
 🤖 AI systems · 🧠 virtual characters · 🎮 game experiments  
 
