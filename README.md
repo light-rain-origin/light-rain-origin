@@ -1,55 +1,21 @@
-## Hi there 👋
+Light Rain — building AI systems, virtual characters, and digital experiments.
 
-I'm Light Rain — building AI systems, creative tools, and digital experiments.
-
-我正在构建 AI 系统、创意工具与数字实验。
+Light Rain —— 构建 AI 系统、虚拟角色与数字实验。
 
 ---
 
-### 🌌 About Me
-
-- AI systems developer & builder
-- Focus on automation, agents, and creative interfaces
-- Interested in turning ideas into interactive systems
-- Exploring the intersection of technology and imagination
+### Focus / 方向
+AI systems · virtual characters · game experiments  
+AI 系统 · 虚拟角色 · 游戏实验
 
 ---
 
-### 🧠 What I'm working on
-
-- AI agent systems & workflows
-- Web applications & creative tools
-- Interactive UI / experience design
-- Experimental digital projects
+### Learning / 学习
+AI agents · interactive design · game systems  
+AI 智能体 · 交互设计 · 游戏系统
 
 ---
 
-### 🌱 Currently learning
-
-- AI agent architecture
-- Modern frontend frameworks
-- System design & automation
-- Creative coding & interaction design
-
----
-
-### 💬 Ask me about
-
-- AI tools & workflows
-- Web development & system design
-- Building digital products from scratch
-- Creative tech experiments
-
----
-
-### 📫 Contact
-
-GitHub: @light-rain-origin
-
----
-
-### ⚡ Fun fact
-
-I enjoy turning abstract ideas into systems that can actually run.
-
-我喜欢把抽象的想法变成可以运行的系统。
+### Note / 想法
+Ideas become characters, systems, and worlds.  
+想法成为角色、系统与世界。
